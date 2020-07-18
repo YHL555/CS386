@@ -19,7 +19,7 @@ Customer class: mainly used to store customers' personal information.
 Register class: help new customers set up accounts and collect new customer information.
 Login class: read customer information.
 
-https://github.com/YHL555/CS386/blob/master/cases.png
+![image](https://github.com/YHL555/CS386/blob/master/cases.png)
 
 The division of D3
 - Anqi Wang(25%) – Question #1
