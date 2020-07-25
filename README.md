@@ -5,7 +5,8 @@ D5. Design Group6 07/24/2020
 2.Architecture
 ![Image](https://github.com/YHL555/CS386/blob/master/D51.png)
 
-Class Diagram
+3.Class Diagram
+![Image](https://github.com/YHL555/CS386/blob/master/D52.png)
 
 4.Sequence diagram
 
