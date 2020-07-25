@@ -24,4 +24,4 @@ Link: https://github.com/YHL555/CS386/blob/master/ecom/public/item.php
 
 6.Design Principles
 
-Single responsibility principle: link Only the customer landing page is displayed. Open/closed principle Liskov substitution principle :link It can be used on any web page Interface segregation principle Dependency inversion principle
+Single responsibility principle: https://github.com/YHL555/CS386/blob/master/ecom/public/item.php Only the customer landing page is displayed. Open/closed principle Liskov substitution principle :https://github.com/YHL555/CS386/blob/master/ecom/resources/templates/config.php It can be used on any web page Interface segregation principle Dependency inversion principle
