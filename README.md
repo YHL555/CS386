@@ -14,6 +14,8 @@ Use Case: shopping Actor: the customer Description: The user can shopping on web
 
 Use Case: manage a website Actor: the manager Description: The manager edit items on the website and review orders. Pre-Conditions: Consumers placed an order Post-Conditions: Customers didn’t cancel it. And items in stock. Main Flow & Alternative Flows : Managers edit websites that sell goods. View consumer completed orders.
 
+![Image](https://github.com/YHL555/CS386/blob/master/D54.png)
+
 5.Design Patterns
 
 Link: https://github.com/YHL555/CS386/blob/master/ecom/public/login.php
