@@ -19,7 +19,7 @@ Use Case: manage a website Actor: the manager Description: The manager edit item
 5.Design Patterns
 ![Image](https://github.com/YHL555/CS386/blob/master/Login.jpeg)
 Link: https://github.com/YHL555/CS386/blob/master/ecom/public/login.php
-
+![Image](https://github.com/YHL555/CS386/blob/master/Item.jpeg)
 Link: https://github.com/YHL555/CS386/blob/master/ecom/public/item.php
 
 6.Design Principles
