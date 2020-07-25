@@ -1,30 +1,23 @@
+D5. Design Group6 07/24/2020
 
-CS386
-Group6
-07/16/2020
-1.     Positioning
-1.1.Problem Statement
-The problem of the wide spread of Coronavirus in Flagstaff affects the progress of group work, the impact of which is postponing the progress of our group.
-1.2.Product Position Statement
-For private small businesses who don't have a large amount of money, Invincible E Store is a non-profit business website that is a free application for everyone. Unlike other electronic stores whose purposes are to deduct the profits of registered merchants for profit, our product is just to help some small businesses make more money.
-1.3.Value Proposition
-My product is a non-profit which will give the small business a platform to promote their stores and their goods, online electronic stores open to every user, and the target customers are some private small business owners. Our software provides free services to every user, which reduces the competitiveness of the industry for small businessmen with less business capital and increases the chance of survival of their goods and stores.
-Consumer Segments：
-Our consumer segments are people who are the private small business owners without a large amount of capital.
+1.Description: Our project is to build an e-commerce store. By using our software, sellers can create their own web pages and manage their own web pages very easily. Sellers can add more than one administrator. Every administrator can edit the web pages. For example, putting new items on the web pages or hiding existing items, adding descriptions to items, and categorizing items already on the web pages. Managers can also upload pictures of goods so that consumers can shop more conveniently. Consumers can shop freely through our website. Add your favorite items to your shopping cart and change the number of products in the shopping cart. Our e-commerce store can provide a takeaway website for some small businesses. And some new brands can use our e-store to set up their own official websites. Our aim is to provide convenience for entrepreneurs, as our e-store is a free service. Link: GitHub: https://github.com/YHL555/CS386 Trello: https://trello.com/b/GwJDNydU/cs386-group6
 
+Architecture
 
+Class Diagram
 
-2 & 3. Class responsibilities 
-Customer class: mainly used to store customers' personal information.
-Register class: help new customers set up accounts and collect new customer information.
-Login class: read customer information.
+4.Sequence diagram
 
-![image](https://github.com/YHL555/CS386/blob/master/cases.png)
+Use Case: shopping Actor: the customer Description: The user can shopping on website freely Pre-Conditions: Consumers want to buy Post-Conditions: Consumers have patience to wait for delivery Main Flow & Alternative Flows : Consumers are required to register an account if they make their first purchase on this website. The consumer already has an account, logs in, and starts shopping. Add your favorite items to your shopping cart. Select the shipping address and pay. Consumers can also view their shopping history and update their personal information.
 
-The division of D3
-- Anqi Wang(25%) – Question #1
-- Zhicen Liu(25%) – (3 cases)Question #2&Question #3
-- Yihao Lu(25%) – (3 cases)Question #2&Question #3
-- Xiaobai Li(25%) – (3 cases)Question #2&Question #3
+Use Case: manage a website Actor: the manager Description: The manager edit items on the website and review orders. Pre-Conditions: Consumers placed an order Post-Conditions: Customers didn’t cancel it. And items in stock. Main Flow & Alternative Flows : Managers edit websites that sell goods. View consumer completed orders.
 
+5.Design Patterns
 
+Link: https://github.com/YHL555/CS386/blob/master/ecom/public/login.php
+
+Link: https://github.com/YHL555/CS386/blob/master/ecom/public/item.php
+
+6.Design Principles
+
+Single responsibility principle: link Only the customer landing page is displayed. Open/closed principle Liskov substitution principle :link It can be used on any web page Interface segregation principle Dependency inversion principle
