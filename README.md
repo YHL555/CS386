@@ -17,7 +17,7 @@ Use Case: manage a website Actor: the manager Description: The manager edit item
 ![Image](https://github.com/YHL555/CS386/blob/master/D54.png)
 
 5.Design Patterns
-
+![Image](https://github.com/YHL555/CS386/blob/master/Login.jpeg)
 Link: https://github.com/YHL555/CS386/blob/master/ecom/public/login.php
 
 Link: https://github.com/YHL555/CS386/blob/master/ecom/public/item.php
