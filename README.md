@@ -44,7 +44,7 @@ Trello: https://trello.com/b/GwJDNydU/cs386-group6
 2. Architecture
 
 
-
+![Image](https://github.com/YHL555/CS386/blob/master/D51.png)
  
 
 
