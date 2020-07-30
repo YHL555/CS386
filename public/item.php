@@ -88,7 +88,7 @@
 <div class="row">
 
     <div class="col-md-7">
-       <img class="img-responsive" src="../resoirces/<?php echo display_image($row['product_image']); ?>" alt="">
+       <img class="img-responsive" src="http://placehold.it/700x600" alt="">
 
     </div>
 
