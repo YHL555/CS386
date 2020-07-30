@@ -3,6 +3,7 @@ D6 Implementation2
 07/29/2020
 
 1. Introduction 
+
 Our project is to build an e-commerce store. By using our software, sellers can create their own web pages and manage their own web pages very easily. Sellers can add more than one administrator. Every administrator can edit the web pages. For example, putting new items on the web pages or hiding existing items, adding descriptions to items, and categorizing items already on the web pages. Managers can also upload pictures of goods so that consumers can shop more conveniently. Consumers can shop freely through our website. Add your favorite items to your shopping cart and change the number of products in the shopping cart.
 
 Our e-commerce store can provide a takeaway website for some small businesses. And some new brands can use our e-store to set up their own official websites. Our aim is to provide convenience for entrepreneurs, as our e-store is a free service.
@@ -13,6 +14,7 @@ Link:
    
 
 2. Implemented requirements 
+
 (i) .Use stories: As a manager, I want to edit the information of items by myself so that customers can shop more easily.
 Trello:https://trello.com/c/SHuhI5kO/40-as-a-manager-i-want-to-edit-the-information-of-items-by-myself-so-that-customers-can-shop-more-easily
 Name of who implemented the requirement: Xiaobai Li
@@ -52,12 +54,15 @@ Name of who implemented the requirement: Anqi Wang
 Link: functions.php
 
 3. Demo 
+
 https://drive.google.com/drive/folders/1Cqn9SpieIT5r_Ut1v0TFYWHY3nSHkd_V?usp=sharing
 
 4. Code quality 
+
 Each member of our team has a specific task of writing code. Before submitting the code, ensure that the code written by yourself is error-free and can run successfully. We implement a clock-in relay system, and specify the time for each person to submit the code according to the amount of work and personal ability, and try to avoid delaying the submission of this situation.
 
 5. Lessons learned
+
 During the project, each team member worked hard to complete the work. We meet every day according to the plan and the assignment is clear. Despite everyone's positive attitude, there was a delay in the completion of the project. By completing this project, we were for the first time fully involved in the process of developing a software. And the teamwork between the team. Each team member experienced the development of PHP language in depth. We can improve on our schedule. In this way our team will become stronger.
 
 
