@@ -88,7 +88,7 @@
 <div class="row">
 
     <div class="col-md-7">
-       <img class="img-responsive" src="../resoirces/<?php echo display_image($row['product_image']); ?>" alt="">
+       <img class="img-responsive" src="http://placehold.it/700x600" alt="">
 
     </div>
 
@@ -113,15 +113,13 @@
             4.0 stars
         </p>
     </div>
-
-        <p><?php echo $row['short_desc']; ?></p>
           
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
 
    
     <form action="">
         <div class="form-group">
-            <a href="../resources/car.php?add=<?php echo $row['product_id']; ?>" class="btn btn-primary">ADD</a>
+            <input type="submit" class="btn btn-primary" value="ADD TO CART">
         </div>
     </form>
 
